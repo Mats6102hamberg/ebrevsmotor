@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Recipient lists (NEVER commit these)
+recipients.json
+recipients.txt
+contacts.json
+
+# Candidate finder data (NEVER commit PII)
+data/private/
+candidates.csv
+candidates.json
+urls.txt
+
+# OS
+.DS_Store
+Thumbs.db
