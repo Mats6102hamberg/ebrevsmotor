@@ -1,0 +1,16 @@
+{
+  "projectId": "prj_icLgXv7qPR0XpGexecT5Y2xKhoAJ",
+  "orgId": "team_O8WwPZVRk0zSbGrSRfU3nMxY",
+  "projectName": "ebrevsmotor",
+  "settings": {
+    "createdAt": 1759400076426,
+    "framework": "vite",
+    "devCommand": null,
+    "installCommand": null,
+    "buildCommand": null,
+    "outputDirectory": null,
+    "rootDirectory": null,
+    "directoryListing": false,
+    "nodeVersion": "22.x"
+  }
+}
